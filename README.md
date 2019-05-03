@@ -33,7 +33,6 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-  Semantic HTML gives your content meaning. For example: an <h1> header semantic doesn't just affect the size of the header, it will give a search engine a keyword of its content to influence a search on a page, or influence the rankings of the search on a page. It makes your content easier to read. 
  
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
    They are both display-outside values, but the biggest difference between display block and inline is; Display blocks, by default will take up as much space, horizontally, as they can, without setting a width. With an inline block, you are able to set and control the width and height.
