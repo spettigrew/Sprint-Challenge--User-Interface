@@ -160,6 +160,8 @@ header .img{
 .top-content {
 	display: flex;
     flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
     border-bottom: dotted black;
 }
 
@@ -268,8 +270,10 @@ header .img{
   .boxes > :nth-child(10){
     background-color: dodgerblue;
   } */
-
-.bottom-content .row-container{
+section.bottom-content{
+    display: flex;
+}
+.bottom-content{
     display: flex;
     flex-direction: row;
     width: 100%;
